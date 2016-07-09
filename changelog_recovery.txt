@@ -1,0 +1,4 @@
+05.07.2016
+=====================
+* Initial VEGA IRON 2 release
+* Update 3.0.2.0_Tekcafe.vn
