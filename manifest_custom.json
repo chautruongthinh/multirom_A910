@@ -30,7 +30,15 @@
 						"size": 8593307
 					},
 					{
-						"extra": {"releases":["5.0"]},
+						"extra": {"releases":["6.x"]},
+						"url": "https://github.com/chautruongthinh/multirom_A910/raw/master/cm13.zip",
+						"version": "6.x",
+						"md5": "7dd7c6a9aa58f87d106b000ddfcfcb54",
+						"type": "kernel",
+						"size": 9343622
+					},
+					{
+						"extra": {"releases":["5.x"]},
 						"url": "https://github.com/chautruongthinh/multirom_A910/raw/master/cm12.zip",
 						"version": "5.x",
 						"md5": "5683155a88ae8ddcf6e24d5d93fd2a8e",
